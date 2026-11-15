@@ -1,0 +1,301 @@
+{
+  "products": [
+    {
+      "name": "Oversized T-Shirt",
+      "price": "999",
+      "originalPrice": "1299",
+      "image": "https://triprindia.com/cdn/shop/files/TWTBURNOS-D2191.jpg?v=1775568728&width=2000",
+      "category": "Men",
+      "rating": "4",
+      "description": "An oversized T-shirt is a fashion-forward garment designed to be intentionally larger than standard sizing, offering a relaxed, baggy, and comfortable silhouette. Unlike simply wearing a larger size, these are intentionally designed with features like dropped shoulders, wider bodies, and longer sleeves.",
+      "id": "WkHZfsGYVGk"
+    },
+    {
+      "name": "Crop Hoodie",
+      "price": "1499",
+      "originalPrice": "1999",
+      "image": "https://www.risestore.com/cdn/shop/files/w-comfy-crop-hoodie-grey-4_600x.jpg?v=1705357009%20600w",
+      "category": "Women",
+      "rating": "4",
+      "description": "A crop hoodie is a stylish, shortened version of a traditional hooded sweatshirt, typically ending above the waistline to expose the midriff. It combines the cozy, athletic vibe of a hoodie—complete with a hood and often long sleeves or a kangaroo pocket—with a modern, fashionable silhouette.",
+      "id": "_GIEO66Tr5Q"
+    },
+    {
+      "name": "Street Jacket",
+      "price": "1999",
+      "originalPrice": "2499",
+      "image": "https://www.vintagedrip.in/cdn/shop/files/metromett.ps-20241122-0001.jpg?v=1732300192",
+      "category": "Men",
+      "rating": "5",
+      "description": "A street jacket (or streetwear jacket) is a versatile, casual outer garment designed for urban environments, blending comfort, function, and modern style. Rooted in 1990s hip-hop and skate culture, these jackets often feature oversized silhouettes, bold graphics, and functional elements.",
+      "id": "yyA3RuNtAMI"
+    },
+    {
+      "name": "Denim Jeans",
+      "price": "1999",
+      "originalPrice": "2199",
+      "image": "https://5.imimg.com/data5/VQ/HF/MY-58718314/mens-denim-skinny-jeans-500x500.jpg",
+      "category": "Men",
+      "rating": "4",
+      "description": "Denim jeans are durable, versatile trousers made from denim, a sturdy cotton warp-faced twill fabric where the weft passes under two or more warp threads. Originally designed in the 1800s as rugged workwear for miners and laborers, they have evolved into a staple of modern fashion worldwide.",
+      "id": "zdDfTd2rE0c"
+    },
+    {
+      "name": "Denim Shirt",
+      "price": "1899",
+      "originalPrice": "2299",
+      "image": "https://tiimg.tistatic.com/fp/1/007/708/fine-finish-regular-fit-stylish-full-sleeves-hard-collar-blue-men-s-denim-shirts-592.jpg",
+      "category": "Men",
+      "rating": "5",
+      "description": "A denim shirt is a durable, ruggedly stylish top crafted from cotton twill fabric (often indigo-dyed) with a diagonal weave, typically featuring a button-down front, collar, and long sleeves. It is a versatile wardrobe staple available in various washes—from dark indigo to light, faded shades—and is popular for its \"worn-in\" comfort, longevity, and ease in layering, often styled as a casual shirt or an overshirt.",
+      "id": "lzTg3ngEL4k"
+    },
+    {
+      "name": "Urbano Hombre Jacket",
+      "price": "4000",
+      "originalPrice": "7000",
+      "image": "https://images.stockcake.com/public/1/b/6/1b6c9d06-d37b-464f-b94f-d4a17b600526_large/stylish-urban-male-stockcake.jpg",
+      "category": "Men",
+      "rating": "5",
+      "description": "This image features a stylish individual wearing a dark, deconstructed jacket over a matching vest and trousers, capturing a rugged, avant-garde aesthetic similar to Yohji Yamamoto designs.",
+      "id": "WgCi3_g_40w"
+    },
+    {
+      "name": "Street fashion Combo",
+      "price": "5000",
+      "originalPrice": "9999",
+      "image": "https://as1.ftcdn.net/v2/jpg/00/87/41/54/1000_F_87415496_PpLsEe9kzAxtu1PsXutAoHEhneFLclcr.jpg",
+      "category": "Men",
+      "rating": "5",
+      "description": "The image displays a man posing confidently against a modern textured wall while wearing a stylish, casual outfit. He is sporting a sleek black leather jacket layered over a dark grey t-shirt, giving him a classic edgy look. His attire is paired with slim-fit tan or khaki trousers that add a warm contrast to the darker upper layers. On his feet, he wears bright white sneakers that bring a clean, contemporary finish to the overall ensemble. Completing the look, he wears dark sunglasses and leans back with one foot up against the wall in a relaxed posture.",
+      "id": "3062trEkn9s"
+    },
+    {
+      "name": "Biker Jacket",
+      "price": "3000",
+      "originalPrice": "5999",
+      "image": "https://as1.ftcdn.net/v2/jpg/00/79/45/24/1000_F_79452402_90MiKXyFYOA77OSjYehrTBHZD2WaMNzM.jpg",
+      "category": "Women",
+      "rating": "5",
+      "description": "The outfit features a classic black leather biker jacket worn over a simple grey top. This edgy upper layer is paired with comfortable blue jeans for a casual look. Aviator-style sunglasses with brown tinted lenses add a cool, stylish touch. Her long, straight blonde hair flows naturally down her shoulders to complement the ensemble. Overall, the combination creates a timeless, rebellious, yet effortlessly chic street-style aesthetic.",
+      "id": "e1TKW2dqc0k"
+    },
+    {
+      "name": "T-Shirt & Beanie Combo",
+      "price": "1499",
+      "originalPrice": "₹2000",
+      "image": "https://as1.ftcdn.net/v2/jpg/02/45/80/84/1000_F_245808410_ogoLvRBL4W3wHfOrgGPyFklg4oAFDUAr.jpg",
+      "category": "Men",
+      "rating": "4",
+      "description": "The man is wearing a casual streetwear outfit consisting of a plain, loose-fitting black crewneck t-shirt with short sleeves. On his head, he sports a classic, snug-fitting black beanie that covers his ears and hair. He is paired with black athletic track pants featuring a thin, subtle vertical stripe running down the side of each leg. On his feet, he wears a pair of low-top black sneakers with a contrasting white sole. The entire ensemble follows a cohesive, monochromatic all-black aesthetic suitable for movement or casual wear.",
+      "id": "ELv-bsPxXK8"
+    },
+    {
+      "name": "Longline Shrug",
+      "price": "4499",
+      "originalPrice": "6000",
+      "image": "https://as2.ftcdn.net/v2/jpg/01/11/32/09/1000_F_111320911_1mcgOCj9qbkOdj35dQfmRSHJPDdp97b1.jpg",
+      "category": "Women",
+      "rating": "5",
+      "description": "The model is wearing a chic and vibrant contemporary ensemble featuring a sleeveless, draped peach-colored vest as the standout piece. Beneath the open vest, she sports a fitted black top and matching black slim-fit trousers that create a sleek, neutral base. Her neckline is adorned with a bold, statement-making collar necklace encrusted with large, multicolored jewel tones. This colorful theme is mirrored on her wrist with a chunky, stacked beaded bracelet boasting a mix of bright neon shades. The entire outfit perfectly balances structured tailoring with playful, high-contrast accessories for a sophisticated yet energetic fashion statement.",
+      "id": "zelVBVhF6VE"
+    },
+    {
+      "name": "Leather Trench Coat",
+      "price": "4000",
+      "originalPrice": "6000",
+      "image": "https://as2.ftcdn.net/v2/jpg/03/03/54/75/1000_F_303547535_SZ04tkZQyWZts6PF4Cimcxv7aFpVXZ3q.jpg",
+      "category": "Women",
+      "rating": "5",
+      "description": "The outfit features a long, tailored black leather trench coat worn open over a matching black leather minidress. The structured outerwear creates a dramatic silhouette with sharp lapels and long sleeves. A chic black leather crescent-shaped handbag accents the look, detailed with cascading silver metal chains. Round, dark-tinted sunglasses and a minimal black wristwatch elevate the edgy aesthetic. This monochromatic ensemble combines textured leather layers for a bold, matrix-inspired streetwear style.",
+      "id": "P-5qbtQ4ynQ"
+    },
+    {
+      "name": "Skater-Style Outfit",
+      "price": "1899",
+      "originalPrice": "2499",
+      "image": "https://as1.ftcdn.net/v2/jpg/00/57/54/58/1000_F_57545867_XxVcDOojxpFnACovp2blixOPB1ANQ7dn.jpg",
+      "category": "Women",
+      "rating": "4",
+      "description": "The woman is wearing a casual, summer-ready skater-style outfit highlighted by a vibrant teal and white plaid button-up shirt. The shirt features short sleeves and is playfully tied in a knot at the front to create a cropped, midriff-baring silhouette. Underneath the unbuttoned plaid top, a hint of a bright orange bikini top or bralette adds a pop of contrasting color. She pairs the top with low-rise, light-wash denim cutoff shorts that feature subtle distressing and a frayed hemline. Completing her streetwear look are a pair of retro, wide-framed white sunglasses and a high bun hair updo that accentuates the carefree, sunny aesthetic.",
+      "id": "NyltJud2-jw"
+    },
+    {
+      "name": "Burnout T-shirt",
+      "price": "999",
+      "originalPrice": "1499",
+      "image": "https://as1.ftcdn.net/v2/jpg/00/90/04/52/1000_F_90045256_RnZB08HkfIv7ZRJdZnjDg4e1AANer4Z9.jpg",
+      "category": "Women",
+      "rating": "4",
+      "description": "An edgy, modern outfit combines a breezy, semi-sheer white crewneck t-shirt with classic vibrant blue denim jeans. This casual pairing is elevated by bold accessories, including an oversized layered beaded statement necklace, stacked black bracelets, and sleek wire-frame sunglasses. The look balances effortless comfort with high-fashion streetwear elements.",
+      "id": "5ZERK8wXJ-Q"
+    },
+    {
+      "name": "Green Leather Coat",
+      "price": "2499",
+      "originalPrice": "3999",
+      "image": "https://as2.ftcdn.net/v2/jpg/04/68/98/93/1000_F_468989388_MuVTDQMPkS6t4qTe9yYYQW2HW8L4wgWf.jpg",
+      "category": "Women",
+      "rating": "5",
+      "description": "This stylish street-style outfit features a long, double-breasted trench coat in a rich olive green leather material. Underneath the structured outerwear, the individual wears a minimalist black bandeau bralette that highlights a bare midriff. The look is paired with high-waisted, relaxed-fit black leather trousers that add a sleek texture to the ensemble. Layered delicate gold chain necklaces accessorize the open neckline, adding a subtle touch of elegance. Completing the modern aesthetic, a matching olive green slouchy handbag is held at the side, tying the color palette together perfectly.",
+      "id": "2WihB-hIKDY"
+    },
+    {
+      "name": "White Blazer & Mini Dress",
+      "price": "3499",
+      "originalPrice": "6000",
+      "image": "https://as2.ftcdn.net/v2/jpg/01/73/78/53/1000_F_173785308_HOQe459VagYBcmzaoD6IpFjP17m7iLdp.jpg",
+      "category": "Women",
+      "rating": "5",
+      "description": "This stylish outfit features a light-colored, thigh-length sleeveless dress decorated with a delicate dark floral or botanical pattern throughout. Layered over the dress is a structured, long-sleeved cream blazer left unbuttoned to maintain a relaxed yet sophisticated silhouette. The ensemble is accessorized with bold, white-framed cat-eye sunglasses that introduce a retro and chic flair to the overall look. Her dark, wavy hair cascades naturally over her shoulders, complementing the soft, feminine aesthetic of the floral attire.",
+      "id": "eajlmtkogK8"
+    },
+    {
+      "name": "Blazer with White Shirt",
+      "price": "4000",
+      "originalPrice": "6999",
+      "image": "https://images.stockcake.com/public/5/4/9/54989bac-4984-471e-ac20-bfc3db33e7b0_large/urban-fashion-walk-stockcake.jpg",
+      "category": "Men",
+      "rating": "5",
+      "description": "The man wears a smart-casual ensemble featuring a tailored navy blue blazer layered over a crisp, unbuttoned white dress shirt. This is paired with slim-fit beige chinos secured by a classic black leather belt. He completes the sharp look with sockless black leather loafers, making it perfect for a modern city setting.",
+      "id": "aslpudBPWIk"
+    },
+    {
+      "name": "Kids Graphic T-Shirt",
+      "price": 699,
+      "originalPrice": 899,
+      "image": "https://image.hm.com/assets/hm/89/45/8945f4bb0992bae2ff808ba331eda6b33c0fb41c.jpg?imwidth=1260",
+      "category": "Kids",
+      "rating": 4,
+      "description": "Soft cotton tee with a fun print.",
+      "id": "kids001"
+    },
+    {
+      "name": "Kids Graphic T-Shirt",
+      "price": 799,
+      "originalPrice": 899,
+      "image": "https://image.hm.com/assets/hm/a1/b6/a1b6b9b0ce00ef8607842d72142d7f6ff2b01ab0.jpg",
+      "category": "Kids",
+      "rating": 4,
+      "description": "Soft cotton tee with a fun cartoon print. Breathable and easy to wash, ideal for everyday play.",
+      "id": "kids01"
+    },
+    {
+      "name": "Kids Denim Dungarees",
+      "price": 1299,
+      "originalPrice": 1699,
+      "image": "https://image.hm.com/assets/hm/9a/66/9a663354ea2c009500f4902f741de3805dbafb4d.jpg",
+      "category": "Kids",
+      "rating": 5,
+      "description": "Durable stretch denim dungarees with adjustable straps and roomy pockets, made for active kids.",
+      "id": "kids02"
+    },
+    {
+      "name": "Kids Hooded Sweatshirt",
+      "price": 1199,
+      "originalPrice": 1499,
+      "image": "https://image.hm.com/assets/hm/ea/fe/eafe3893c5f4ad5df82828bb30b3bd38b3dd6785.jpg?imwidth=2160",
+      "category": "Kids",
+      "rating": 4,
+      "description": "Warm fleece-lined hoodie with a kangaroo pocket and soft ribbed cuffs for cooler days.",
+      "id": "kids03"
+    },
+    {
+      "name": "Kids Jogger Pants",
+      "price": 899,
+      "originalPrice": 1199,
+      "image": "https://image.hm.com/assets/hm/d0/2c/d02c5dbb11584ff7663ca08b8a80b004e02dd0dd.jpg?imwidth=2160",
+      "category": "Kids",
+      "rating": 4,
+      "description": "Stretchy cotton joggers with an elastic waistband and drawstring. Comfortable for school and play.",
+      "id": "kids04"
+    },
+    {
+      "name": "Kids Party Frock",
+      "price": 1599,
+      "originalPrice": 1999,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/583x720/24547439a.webp",
+      "category": "Kids",
+      "rating": 5,
+      "description": "A twirl-ready frock with a soft tulle skirt and satin bow. Perfect for birthdays and festive occasions.",
+      "id": "kids05"
+    },
+    {
+      "name": "Kids Puffer Jacket",
+      "price": 1999,
+      "originalPrice": 2499,
+      "image": "https://static.zara.net/assets/public/fbff/32f0/a06742088124/cfb277e51272/05992550500-e1/05992550500-e1.jpg?ts=1784202391605&w=1063",
+      "category": "Kids",
+      "rating": 5,
+      "description": "Lightweight quilted jacket with a zip front and cozy lining. Keeps little ones warm without the bulk.",
+      "id": "kids06"
+    },
+    {
+      "name": "Kids Cotton Pyjama Set",
+      "price": 799,
+      "originalPrice": 999,
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/583x720/23976949a.webp",
+      "category": "Kids",
+      "rating": 4,
+      "description": "Two-piece 100% cotton night set with a playful print. Gentle on skin for a good night's sleep.",
+      "id": "kids07"
+    }
+  ],
+  "users": [
+    {
+      "name": "AdminEx",
+      "email": "admin@uw.com",
+      "password": "admin@uw",
+      "role": "admin",
+      "id": "cMlMgmVohIo",
+      "lastLogin": "2026-11-15T05:55:13.640Z"
+    },
+    {
+      "name": "Ram",
+      "email": "ram@uw.com",
+      "password": "ram123",
+      "role": "user",
+      "id": "0UjOTnD",
+      "phone": "9876544683",
+      "address": "",
+      "avatar": "",
+      "lastLogin": "2026-11-15T07:49:07.992Z"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "0UjOTnD",
+      "customerName": "Ram",
+      "customerEmail": "ram@uw.com",
+      "phone": "9876544683",
+      "address": "d",
+      "items": [
+        {
+          "id": "WkHZfsGYVGk",
+          "name": "Oversized T-Shirt",
+          "image": "https://triprindia.com/cdn/shop/files/TWTBURNOS-D2191.jpg?v=1775568728&width=2000",
+          "quantity": 1,
+          "price": 999
+        }
+      ],
+      "total": 999,
+      "payment": "Cash on Delivery",
+      "status": "Delivered",
+      "createdAt": "2026-11-05T11:16:29.994Z",
+      "id": 1
+    }
+  ],
+  "reviews": [
+    {
+      "productId": "WkHZfsGYVGk",
+      "orderId": 1,
+      "userId": "0UjOTnD",
+      "userName": "Ram",
+      "rating": 5,
+      "comment": "Good quality",
+      "createdAt": "2026-11-05T11:18:04.061Z",
+      "id": 1
+    }
+  ],
+  "enquires": []
+}
