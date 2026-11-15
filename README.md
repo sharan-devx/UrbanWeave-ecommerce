@@ -2,6 +2,11 @@
 
 🔗 **Live demo:** https://sharan-devx.github.io/UrbanWeave-ecommerce/
 
+## Screenshots
+![Home page](home.png)
+![Products](products.png)
+![Cart](cart.png)
+
 React + Vite fashion storefront with an admin dashboard. Data is served by
 [json-server](https://github.com/typicode/json-server) from `../db.json`.
 
