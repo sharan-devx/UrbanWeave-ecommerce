@@ -1,0 +1,1 @@
+var e=`/UrbanWeave-ecommerce/assets/banner-3-3bHcxYgl.jpg`;export{e as t};
