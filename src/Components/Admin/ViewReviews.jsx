@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { PageHeader } from "./ui";
 
-const API = "http://localhost:3001";
+const API = "https://urbanweave-api.onrender.com";
 
 const formatDate = (iso) =>
     iso
