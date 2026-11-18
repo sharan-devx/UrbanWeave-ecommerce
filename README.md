@@ -1,6 +1,6 @@
 # UrbanWeave
 
-🔗 **Live demo:** [](https://urban-weave-ecommerce.vercel.app/)
+🔗 **Live demo:** [UrbanWeave](https://urban-weave-ecommerce.vercel.app/)
 
 ## Screenshots
 ![Home page](home.png)
