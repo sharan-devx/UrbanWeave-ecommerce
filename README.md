@@ -1,6 +1,6 @@
 # UrbanWeave
 
-🔗 **Live demo:** https://sharan-devx.github.io/UrbanWeave-ecommerce/
+🔗 **Live demo:** [](https://urban-weave-ecommerce.vercel.app/)
 
 ## Screenshots
 ![Home page](home.png)
