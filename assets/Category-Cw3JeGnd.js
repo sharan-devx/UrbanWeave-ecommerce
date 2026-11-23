@@ -1,0 +1,1 @@
+import{t as e}from"./Products-B3R1qzLY.js";import{n as t}from"./ui-BCOd7HML.js";import{o as n}from"./index-DHP0TtiM.js";var r=`/UrbanWeave-ecommerce/assets/Category-Background-DFaT7o7E.avif`,i=n();function a(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(t,{title:`Shop Categories`,text:`Explore styles that match your vibe`,image:r}),(0,i.jsx)(e,{})]})}export{a as default};

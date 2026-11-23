@@ -1,1 +1,0 @@
-import{t as e}from"./Products-CtN6g2eM.js";import{n as t}from"./ui-7dJpMSuZ.js";import{o as n}from"./index-C5Wz69UA.js";var r=new URL(`Category-Background-DFaT7o7E.avif`,import.meta.url).href,i=n();function a(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(t,{title:`Shop Categories`,text:`Explore styles that match your vibe`,image:r}),(0,i.jsx)(e,{})]})}export{a as default};
