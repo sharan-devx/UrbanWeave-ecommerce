@@ -34,3 +34,9 @@ npm run dev      # app on http://localhost:5173  (terminal 2)
 | `npm run lint` | Run ESLint |
 
 Set `VITE_API_URL` (see `.env.example`) to use a different API address.
+
+## Security notes
+This is a portfolio demo using JSON Server as a mock API. It intentionally has no
+real authentication: passwords are stored as plain text and the API is open.
+Do not enter real personal data. A production version would use a backend with
+hashed passwords (bcrypt), HTTP-only cookie sessions (JWT), and server-side role checks.
